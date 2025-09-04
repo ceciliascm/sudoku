@@ -65,5 +65,6 @@ Coleções (List, Map, Stream API)
 Boas práticas de clean code e modularização
 
 👨‍💻 Autor
+
 Projeto criado como exercício prático para treino de lógica e POO em Java, baseado no curso da Digital Innovation One (DIO) GFT Start #7 - Java.
 Cecília Costa.
